@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Requery Bug</string>
+    <string name="title_first">First</string>
+    <string name="title_second">Second</string>
+    <string name="title_third">Third</string>
+    <string name="place_holder_tittle">Title</string>
+</resources>
